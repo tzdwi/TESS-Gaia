@@ -1,3 +1,8 @@
+#
+# Full target list for orbit 17, sector 5
+# Created Thu Nov 15 09:18:21 EST 2018 
+# Concatenation of GI astero exo bright DDT ppas lists
+#
 TICID,Camera,CCD,Tmag,RA,Dec
 589445,2,1,10.48,71.6467,-29.5239
 589656,2,1,11.23,71.6772,-28.7061

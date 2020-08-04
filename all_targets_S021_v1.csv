@@ -1,3 +1,8 @@
+#
+# Full target list for orbit 49, sector 21
+# Created Mon Jan 27 21:02:19 EST 2020 
+# Concatenation of GI astero exo bright DDT ppas lists
+#
 TICID,Camera,CCD,Tmag,RA,Dec
 1027045,1,4,10.48,153.8698,28.8892
 1027083,1,4,12.51,153.7973,28.6956

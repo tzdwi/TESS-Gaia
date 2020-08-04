@@ -1,3 +1,8 @@
+#
+# Full target list for orbit 13, sector 3
+# Created Wed Sep 19 00:49:36 EDT 2018 
+# Concatenation of GI astero exo bright DDT ppas lists
+#
 TICID,Camera,CCD,Tmag,RA,Dec
 3804313,1,4,10.69,9.4226,-9.4437
 3804499,1,4,10.08,9.4350,-8.2732

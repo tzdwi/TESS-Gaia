@@ -1,3 +1,8 @@
+#
+# Full target list for orbit 45, sector 19
+# Created Mon Dec  2 19:00:45 EST 2019 
+# Concatenation of GI astero exo bright DDT ppas lists
+#
 TICID,Camera,CCD,Tmag,RA,Dec
 1751601,1,4,14.15,78.6331,35.0663
 1756622,1,4,11.14,78.7209,32.0843
